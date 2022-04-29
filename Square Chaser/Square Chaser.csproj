@@ -84,10 +84,10 @@
     <None Include="Resources\Boost.wav" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Win.wav" />
+    <None Include="Resources\Point Get.wav" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Point Get.wav" />
+    <None Include="Resources\Win.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
